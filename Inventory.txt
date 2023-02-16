@@ -1,4 +1,0 @@
-1,5 Star,10,100
-2,Mikly Bar,15,100
-3,Cadbury,5,100
-4,Cake,10,0
