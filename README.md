@@ -1,6 +1,6 @@
 ## About Me
 
-👋 Hi, I'm Dhyey Sampat, a third-year B.Tech student with a passion for data science and analytics. I love exploring and working on various data-driven projects to solve real-world problems. This repository showcases some of my data science projects.
+👋 Hi, I'm Dhyey Sampat, a first-year Masters student with a passion for data science and analytics. I love exploring and working on various data-driven projects to solve real-world problems. This repository showcases some of my data science projects.
 
 ## Projects
 
@@ -13,6 +13,8 @@
 - **Inventory Management**: A project that utilizes data analysis techniques to optimize inventory management and streamline supply chain operations. 
 
 - **California House Price Prediction**: A machine learning project that predicts house prices in California based on various features such as location, square footage, number of bedrooms and bathrooms, and more.
+
+- **Customer Churn Prediction**: Built an ANN model to predict customer churn with ~86% accuracy, leveraging deep learning for actionable business insights.
 
 Feel free to explore these projects and provide any feedback or suggestions you may have. I'm continually learning and improving my skills in data science, and your input is highly appreciated.
 
